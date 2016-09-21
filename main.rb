@@ -32,8 +32,8 @@ def mergesort(array)
 end
 
 def main()
-  a = [4,8,9,12,45,100,284]
-
+  a = [10,9,8,7,6,5,4,3,2,1]
+  b = mergesort(a)
   puts b
 end
 
